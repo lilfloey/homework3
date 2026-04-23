@@ -1,0 +1,14 @@
+/Users/lidiiakuchma/Desktop/dz3/bin/Debug/net10.0/dz3
+/Users/lidiiakuchma/Desktop/dz3/bin/Debug/net10.0/dz3.deps.json
+/Users/lidiiakuchma/Desktop/dz3/bin/Debug/net10.0/dz3.runtimeconfig.json
+/Users/lidiiakuchma/Desktop/dz3/bin/Debug/net10.0/dz3.dll
+/Users/lidiiakuchma/Desktop/dz3/bin/Debug/net10.0/dz3.pdb
+/Users/lidiiakuchma/Desktop/dz3/obj/Debug/net10.0/dz3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lidiiakuchma/Desktop/dz3/obj/Debug/net10.0/dz3.AssemblyInfoInputs.cache
+/Users/lidiiakuchma/Desktop/dz3/obj/Debug/net10.0/dz3.AssemblyInfo.cs
+/Users/lidiiakuchma/Desktop/dz3/obj/Debug/net10.0/dz3.csproj.CoreCompileInputs.cache
+/Users/lidiiakuchma/Desktop/dz3/obj/Debug/net10.0/dz3.dll
+/Users/lidiiakuchma/Desktop/dz3/obj/Debug/net10.0/refint/dz3.dll
+/Users/lidiiakuchma/Desktop/dz3/obj/Debug/net10.0/dz3.pdb
+/Users/lidiiakuchma/Desktop/dz3/obj/Debug/net10.0/dz3.genruntimeconfig.cache
+/Users/lidiiakuchma/Desktop/dz3/obj/Debug/net10.0/ref/dz3.dll
