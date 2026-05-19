@@ -30,13 +30,13 @@ class CollatzParallel
         }
         averageSteps = (double)totalSteps / limit;
 
-        Console.WriteLine("--- Результати ---");
+        Console.WriteLine("Результати обчислень:");
         Console.WriteLine($"Загальний час: {sw.ElapsedMilliseconds} мс");
         Console.WriteLine($"Середня кількість кроків: {averageSteps:F2}");
         Console.WriteLine($"Кількість задіяних логічних процесорів: {Environment.ProcessorCount}");
     }
 
-    // Функція обчислення 
+    // Функція обчисленняa
     static int CountCollatzSteps(int n)
     {
         long current = n;
@@ -51,4 +51,5 @@ class CollatzParallel
         }
         return steps;
     }
+// test changes
 }
